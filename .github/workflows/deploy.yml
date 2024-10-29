@@ -39,7 +39,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git checkout -B gh-pages  # Switch to gh-pages branch
-          git add -A
+          git add --all .
           git commit -m "Deploy to GitHub Pages"
+          git checkout -B gh-pages  # Switch to gh-pages branch
           git push git@github.com:${{ github.repository }} gh-pages --force
