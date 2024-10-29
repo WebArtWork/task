@@ -1,8 +1,8 @@
 {
-	"title": "Tasks | Web Art Work",
-	"description": "[ Tasks] ]Description which will fit on all pages",
-	"keywords": "waw, web art work, server render, template",
-	"prefix": "/wjst-default",
+	"title": "JILA new",
+	"description": "JILA - Leading research in physics, chemistry, and astrophysics. Our work drives innovation and discovery in quantum mechanics, laser science, and molecular dynamics. Join us in exploring the frontiers of science.",
+	"keywords": "JILA, physics research, astrophysics, quantum mechanics, laser science, molecular dynamics, scientific discovery, research institute",
+	"prefix": "/J-default",
 	"favicon": "img/favicon.ico",
 	"image": "https://webartwork.github.io/wjst-default/img/avatar.png",
 	"author": "Honchar Denys",
