@@ -1,10 +1,10 @@
 {
-	"title": "JIRA new",
-	"description": "Jira - Powerful project management and issue tracking software for teams. Streamline your workflows, collaborate effectively, and deliver projects on time with Jira's customizable tools and features.",
-	"keywords": "JIRA, project management, issue tracking, agile methodology, sprint planning, bug tracking, team collaboration, workflow management, task assignment, software development",
+	"title": "Task  Web Art Work",
+	"description": "new Task - Powerful project management and issue tracking software for teams. Streamline your workflows, collaborate effectively, and deliver projects on time with Jira's customizable tools and features.",
+	"keywords": "WAW, project management, issue tracking, agile methodology, sprint planning, bug tracking, team collaboration, workflow management, task assignment, software development",
 	"prefix": "/J-default",
 	"favicon": "img/favicon.ico",
-	"image": "https://cdn.worldvectorlogo.com/logos/jira-3.svg",
+	"image": "https://webartwork.github.io/wjst-default/img/avatar.png",
 	"author": "Honchar Denys",
 	"scss": "scss/index.scss",
 	"items": [
