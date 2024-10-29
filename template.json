@@ -4,7 +4,7 @@
 	"keywords": "JIRA, project management, issue tracking, agile methodology, sprint planning, bug tracking, team collaboration, workflow management, task assignment, software development",
 	"prefix": "/J-default",
 	"favicon": "img/favicon.ico",
-	"image": "https://webartwork.github.io/wjst-default/img/avatar.png",
+	"image": "https://cdn.worldvectorlogo.com/logos/jira-3.svg",
 	"author": "Honchar Denys",
 	"scss": "scss/index.scss",
 	"items": [
